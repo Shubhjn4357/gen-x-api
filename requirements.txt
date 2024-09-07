@@ -1,0 +1,12 @@
+# Dev environment
+pip
+# App
+fastapi
+uvicorn
+transformers
+torch
+requests
+beautifulsoup4
+googlesearch-python
+pydantic
+sqlite3-bro
